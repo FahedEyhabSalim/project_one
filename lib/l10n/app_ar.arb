@@ -1,0 +1,45 @@
+{
+"login_title" : "الآن نحن في الدوريات الكبرى ونحصل على دورنا في الخفافيش. برادي بانش هذه هي الطريقة التي نحن بها برادي بانش..",
+"password":"باسورد",
+"email":"ايميل ",
+"skip":"تخطي",
+"welcome":"  مرحبا!",
+"enjoy_purchase!" : "استمتع بالشراء!",
+"start":"ابداء",
+"add_to_cart":"اضافة كرت ",
+"login":"تسجيل الدخول",
+"sign_in":"تسجيل الدخول",
+"login_to_start_using_app":"قم بتسجيل الدخول لبدء استخدام التطبيق",
+"sign_up":"انشاء حساب جديد",
+"don_have_an_account":"ليس لديك حساب؟",
+"add_to_cart":"اضافة الى السلة",
+"reset_password":"هل نسيت كلمة المرور",
+"home":"الشاشة الرئيسية",
+"my_profile":"الملف الشخصي",
+"favorites":"المفضلة",
+"privacy_policy":"الامان",
+"log_out":"تسجيل خروج",
+"order":" الطلبات",
+"confirm_logout_title":"هل تريد تسيجل خروج",
+"confirm_logout_content":" هل تريد بتاكيد؟",
+"yes":" تاكيد",
+"no":" لا",
+"language_title":" تغير اللغة ",
+"language_sub_title":" اختر اللغة المناسبة ",
+"add_to_cart":"أضف إلى السلة",
+"checkout":"الدفع",
+"cancel_order":"الغاء الطلب",
+"proceed":" يتابع ",
+"finish!":" انهاء ",
+"payment_successful":"تم الدفع بنجاح! ",
+"we_emailed":" لقد أرسلنا لك الإيصال عبر البريد الإلكتروني. ",
+"cart":"تسوق "
+
+
+
+
+
+
+
+
+}
